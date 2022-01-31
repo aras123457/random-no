@@ -1,0 +1,31 @@
+{
+	"storyName": "Sonic.EXE 4",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+
+		[
+			"Chaos",
+			"fleetway",
+			[
+				255,
+				215,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekName": "week1"
+}
